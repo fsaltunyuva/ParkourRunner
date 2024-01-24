@@ -1,0 +1,98 @@
+[
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\.gitignore",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\encodings.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\indexLayout.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\misc.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\projectSettingsUpdater.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\vcs.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\.idea\\.idea.ParkourRunner.dir\\.idea\\workspace.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\ParkourRunner.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\ParkourRunner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\Source\\ParkourRunner\\ParkourRunner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\furka\\OneDrive\\Belgeler\\GitHub\\ParkourRunner\\.vscode\\compileCommands_ParkourRunner\\ParkourRunner.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	}
+]
