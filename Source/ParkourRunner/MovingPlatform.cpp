@@ -11,13 +11,18 @@ AMovingPlatform::AMovingPlatform()
 
 }
 
+FString Name;
+
 // Called when the game starts or when spawned
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
 	StartLocation = GetActorLocation();
+
+	Name = GetName();
 	
+	UE_LOG(LogTemp, Display, TEXT("Configured Moved Distance: %f"), MoveDistance);
 }
 
 // Called every frame
@@ -25,17 +30,41 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	FVector CurrentLocation = GetActorLocation();
-	CurrentLocation = CurrentLocation + PlatformVelocity * DeltaTime;
-	SetActorLocation(CurrentLocation);
-	float DistanceMoved = FVector::Dist(StartLocation, CurrentLocation);
-	
-	if (DistanceMoved > MoveDistance)
+	MovePlatform(DeltaTime);
+	RotatePlatform(DeltaTime);
+}
+
+void AMovingPlatform::MovePlatform(float DeltaTime)
+{
+	if (ShouldPlatformReturn())
 	{
 		FVector MoveDirection = PlatformVelocity.GetSafeNormal();
 		StartLocation = StartLocation + MoveDirection * MoveDistance;
 		SetActorLocation(StartLocation);
 		PlatformVelocity = -PlatformVelocity;
 	}
+	else
+	{
+		FVector CurrentLocation = GetActorLocation();
+		CurrentLocation = CurrentLocation + PlatformVelocity * DeltaTime;
+		SetActorLocation(CurrentLocation);
+	}
 }
+
+void AMovingPlatform::RotatePlatform(float DeltaTime)
+{
+	UE_LOG(LogTemp, Display, TEXT("Rotating %s"), *GetName()); 
+}
+
+bool AMovingPlatform::ShouldPlatformReturn()
+{
+	return GetDistanceMoved() > MoveDistance;
+}
+
+float AMovingPlatform::GetDistanceMoved()
+{
+	return FVector::Dist(StartLocation, GetActorLocation());
+}
+
+
 
